@@ -86,8 +86,10 @@ http://localhost:3000
 
 ## 👨‍💻 Contributors
 
+* Gauranga Koirala (gauranga.koirala07@gamil.com / [Follow me on Github](https://github.com/gauranga-koirala))
+* Prilip Poudel
 * Aarav Dhakal
-* (Add your team members here)
+* Saugat Rai
 
 ---
 
