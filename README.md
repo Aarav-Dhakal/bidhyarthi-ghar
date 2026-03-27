@@ -1,75 +1,121 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 🏠 Bidhyarthi Ghar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Bidhyarthi Ghar** is a student-focused accommodation platform developed as a college project for **IIC**.  
+It aims to simplify the process of finding rooms, hostels, and shared living spaces while building a connected student community.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+### 🔍 Accommodation Search
+- Find **rooms, hostels, and hotels**
+- Filter by price, location, and preferences
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🧑‍🤝‍🧑 Roommate Matching
+- Smart system to match compatible roommates
+- Based on preferences, habits, and lifestyle
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🗺️ Map Links
+- View nearby facilities and surroundings
 
-### `npm test`
+### 🛒 Marketplace
+- Buy/sell student essentials
+- Furniture, books, electronics, etc.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 💬 Forums & Community
+- Student discussions and help threads
+- Share experiences, reviews, and advice
 
-### `npm run build`
+### And MANY MORE
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Frontend:** React.js  
+- **Backend:** 
+- **Database:**   
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📦 Installation & Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/Aarav-Dhakal/bidhyarthi-ghar.git
+cd bidhyarthi-ghar
+````
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm install
+```
 
-## Learn More
+Run the app:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Open in browser:
 
-### Code Splitting
+```
+http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🎯 Project Goals
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Help students easily find accommodation
+* Reduce time and effort in house hunting
+* Build a trusted student ecosystem
+* Provide additional services beyond just housing
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📸 Future Improvements
 
-### Advanced Configuration
+* AI-based roommate matching
+* Rating & review system
+* Secure payment integration
+* Mobile app version
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 👨‍💻 Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Gauranga Koirala (gauranga.koirala07@gamil.com / [Follow me on Github](https://github.com/gauranga-koirala))
+* Prilip Poudel
+* Aarav Dhakal
+* Saugat Rai
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# bidhyarthi-ghar
-bidyarthi ghar
->>>>>>> d6a73964ce6b659fdd466b477ac68104cd2f8e96
+## 📄 License
+
+This project is developed for educational purposes under IIC.
+Is under the MIT License for free and fair use
+```
+
+Copyright (c) 2026 Aarav-Dhakal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

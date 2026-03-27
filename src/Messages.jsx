@@ -2,9 +2,10 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Search, Send, User } from 'lucide-react';
 
 const initialChats = [
-  { id: 1, type: "Match", name: "Rohan Shrestha", time: "10:30 AM", unread: 2, messages: [{ id: 101, text: "Hey! Saw your profile.", sender: "them", time: "10:28 AM" }] },
-  { id: 2, type: "Owner", name: "Landlord - Kanchanbari", time: "Yesterday", unread: 1, messages: [{ id: 201, text: "The 2BHK is available.", sender: "them", time: "Yesterday, 4:15 PM" }] },
-  { id: 3, type: "Seller", name: "Priya (Books)", time: "Tuesday", unread: 0, messages: [{ id: 301, text: "I can do Rs. 3000.", sender: "them", time: "10:00 AM" }] }
+  { id: 1, type: "Match", name: "Rohan Shrestha", time: "10:30 AM", unread: 2, messages: [{ id: 101, text: "Hey! Saw your profile. Are you still looking for a room?", sender: "them", time: "10:28 AM" }] },
+  { id: 2, type: "Owner", name: "Landlord - Kanchanbari", time: "Yesterday", unread: 1, messages: [{ id: 201, text: "The 2BHK is available for viewing tomorrow.", sender: "them", time: "Yesterday, 4:15 PM" }] },
+  { id: 3, type: "Seller", name: "Priya (Books)", time: "Tuesday", unread: 0, messages: [{ id: 301, text: "I can do Rs. 3000.", sender: "them", time: "10:00 AM" }] },
+  { id: 4, type: "Seller", name: "Sita (Haat Bazar Seller)", time: "11:00 AM", unread: 1, messages: [{ id: 401, text: "Yes, the Induction Stove is available. Come to Itahari Haat tomorrow to pick it up!", sender: "them", time: "11:00 AM" }] }
 ];
 
 const Messages = () => {
