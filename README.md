@@ -1,10 +1,3 @@
-Got it — you’re still inside a merge conflict, but instead of keeping that messy default CRA README, we’ll replace it with a **clean, professional project README** 🔥
-
-👉 **Delete EVERYTHING** in that file and replace it with this:
-
----
-
-````md
 # 🏠 Bidhyarthi Ghar
 
 **Bidhyarthi Ghar** is a student-focused accommodation platform developed as a college project for **IIC**.  
@@ -22,8 +15,7 @@ It aims to simplify the process of finding rooms, hostels, and shared living spa
 - Smart system to match compatible roommates
 - Based on preferences, habits, and lifestyle
 
-### 🗺️ Map Integration
-- Interactive maps for location-based search
+### 🗺️ Map Links
 - View nearby facilities and surroundings
 
 ### 🛒 Marketplace
@@ -34,14 +26,14 @@ It aims to simplify the process of finding rooms, hostels, and shared living spa
 - Student discussions and help threads
 - Share experiences, reviews, and advice
 
+### And MANY MORE
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js  
-- **Backend:** (Add yours — e.g., Node.js / Firebase)  
-- **Database:** (MongoDB / Firebase / etc.)  
-- **Maps:** (Google Maps API / Leaflet)  
+- **Backend:** 
+- **Database:**   
 
 ---
 
