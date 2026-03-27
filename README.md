@@ -1,75 +1,120 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Got it — you’re still inside a merge conflict, but instead of keeping that messy default CRA README, we’ll replace it with a **clean, professional project README** 🔥
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👉 **Delete EVERYTHING** in that file and replace it with this:
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+````md
+# 🏠 Bidhyarthi Ghar
 
-### `npm start`
+**Bidhyarthi Ghar** is a student-focused accommodation platform developed as a college project for **IIC**.  
+It aims to simplify the process of finding rooms, hostels, and shared living spaces while building a connected student community.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+### 🔍 Accommodation Search
+- Find **rooms, hostels, and hotels**
+- Filter by price, location, and preferences
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🧑‍🤝‍🧑 Roommate Matching
+- Smart system to match compatible roommates
+- Based on preferences, habits, and lifestyle
 
-### `npm run build`
+### 🗺️ Map Integration
+- Interactive maps for location-based search
+- View nearby facilities and surroundings
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🛒 Marketplace
+- Buy/sell student essentials
+- Furniture, books, electronics, etc.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💬 Forums & Community
+- Student discussions and help threads
+- Share experiences, reviews, and advice
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Frontend:** React.js  
+- **Backend:** (Add yours — e.g., Node.js / Firebase)  
+- **Database:** (MongoDB / Firebase / etc.)  
+- **Maps:** (Google Maps API / Leaflet)  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📦 Installation & Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone the repository:
 
-## Learn More
+```bash
+git clone https://github.com/Aarav-Dhakal/bidhyarthi-ghar.git
+cd bidhyarthi-ghar
+````
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install dependencies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+Run the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+Open in browser:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+http://localhost:3000
+```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🎯 Project Goals
 
-### Advanced Configuration
+* Help students easily find accommodation
+* Reduce time and effort in house hunting
+* Build a trusted student ecosystem
+* Provide additional services beyond just housing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📸 Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* AI-based roommate matching
+* Rating & review system
+* Secure payment integration
+* Mobile app version
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# bidhyarthi-ghar
-bidyarthi ghar
->>>>>>> d6a73964ce6b659fdd466b477ac68104cd2f8e96
+## 👨‍💻 Contributors
+
+* Aarav Dhakal
+* (Add your team members here)
+
+---
+
+## 📄 License
+
+This project is developed for educational purposes under IIC.
+
+````
+
+---
+
+## ✅ Now finish the Git steps
+
+After pasting that:
+
+```bash
+git add README.md
+git commit -m "Updated professional README"
+git push
+````
+
+---
