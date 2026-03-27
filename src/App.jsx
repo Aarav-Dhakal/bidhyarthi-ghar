@@ -12,9 +12,11 @@ export default function App() {
       <Routes>
         <Route path="/" element={<FrontPage />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/dashboard" element={<Dashboard />} />
-        <Route path="/admin" element={<AdminDashboard />} />
-        <Route path="/landlord" element={<LandlordDashboard />} />
+        
+        {/* The Three Role-Based Dashboards */}
+        <Route path="/dashboard" element={<Dashboard />} /> {/* Student */}
+        <Route path="/landlord" element={<LandlordDashboard />} /> {/* Owner */}
+        <Route path="/admin" element={<AdminDashboard />} /> {/* Admin */}
       </Routes>
     </Router>
   );
